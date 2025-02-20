@@ -19,7 +19,7 @@ Created Market Performance vs. Target Report View Report to analyze how differen
 
 
 ## Project Presentation
-You can view the Project Presentation at the following link: [Presentation ](https://www.linkedin.com/posts/roberts777_sales-finance-analytics-project-activity-7287699369401753600-2gXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_E88sBjhYL97I5G4rZHEwx7ksOZwPzKGk)
+You can view the Project Presentation at the following link: [Slides Presentation ](https://www.linkedin.com/posts/roberts777_sales-finance-analytics-project-activity-7287699369401753600-2gXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_E88sBjhYL97I5G4rZHEwx7ksOZwPzKGk)
 
 ## Purpose of Sales Analytics:
 Sales analytics offers valuable insights into sales patterns and performance, allowing AtliQ to make informed, strategic decisions. This analysis helps prioritize high-performing products, identify growth opportunities in key regions, and optimize sales strategies to drive profitability.
