@@ -3,7 +3,7 @@
 **Overview** :
 AtliQ Hardware specializes in personal computers and peripherals, partnering with major retailers like Croma, Best Buy, Amazon, and Flipkart. This report provides a strategic analysis of AtliQ’s sales and financial performance, using data-driven insights to identify trends, opportunities for growth, and areas for improvement. It aims to optimize product performance and refine regional strategies to enhance profitability.
 
-**MY PROJECT LINK**(https://www.linkedin.com/feed/update/urn:li:activity:7287699369401753600/)
+**MY PROJECT LINK :**  (https://www.linkedin.com/feed/update/urn:li:activity:7287699369401753600/)
 
   **Project Goals**
 The primary goal of this project is to create a robust business intelligence solution that enables AtliQ to effectively analyze key performance metrics. The main objectives include:
