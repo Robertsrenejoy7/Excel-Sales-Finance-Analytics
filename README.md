@@ -3,8 +3,6 @@
 **Overview** :
 AtliQ Hardware specializes in personal computers and peripherals, partnering with major retailers like Croma, Best Buy, Amazon, and Flipkart. This report provides a strategic analysis of AtliQ’s sales and financial performance, using data-driven insights to identify trends, opportunities for growth, and areas for improvement. It aims to optimize product performance and refine regional strategies to enhance profitability.
 
-**MY PROJECT LINK :**  (https://www.linkedin.com/feed/update/urn:li:activity:7287699369401753600/)
-
   **Project Goals**
 The primary goal of this project is to create a robust business intelligence solution that enables AtliQ to effectively analyze key performance metrics. The main objectives include:
 
@@ -18,6 +16,10 @@ The primary goal of this project is to create a robust business intelligence sol
   Sales Analytics Key Objectives:
 Developed Customer Performance Report View Report to assess revenue by customer segment, providing insights into customer behaviour and trends.
 Created Market Performance vs. Target Report View Report to analyze how different regions align with their sales targets.
+
+
+## Live Dashboard
+You can view the live dashboard at the following link: [Live Dashboard](https://www.linkedin.com/posts/roberts777_sales-finance-analytics-project-activity-7287699369401753600-2gXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_E88sBjhYL97I5G4rZHEwx7ksOZwPzKGk)
 
 ## Purpose of Sales Analytics:
 Sales analytics offers valuable insights into sales patterns and performance, allowing AtliQ to make informed, strategic decisions. This analysis helps prioritize high-performing products, identify growth opportunities in key regions, and optimize sales strategies to drive profitability.
